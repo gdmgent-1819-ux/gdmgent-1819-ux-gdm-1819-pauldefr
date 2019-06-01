@@ -4,4 +4,4 @@
 - Familienaam: De Fraine
 - Studentnummer: 97904
 - Klasgroep: 1mmp-Ab
-- UX prototype link: https://gdmgent-1819-ux.github.io/gdmgent-1819-ux-gdm-1819-pauldefr/
+- UX prototype link: https://xd.adobe.com/view/fbe584a2-3243-4be4-4339-931959db4c02-8dd4/
