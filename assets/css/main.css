@@ -74,3 +74,11 @@ header{
     display: block;/* indien hover over het parent element, de links van de dropdown opnieuw zichtbaar maken */
   }
 
+  .page-footer {
+    color:white;
+    background-color: black;
+    padding: calc(var(--unit) * 1.5) 0;
+    position: relative;
+    height: 200px;
+  }
+ 
