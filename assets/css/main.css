@@ -73,6 +73,19 @@ header{
   nav ul.mainnav li.hasdropdown:hover ul.dropdown {
     display: block;/* indien hover over het parent element, de links van de dropdown opnieuw zichtbaar maken */
   }
+  h2{
+      color: white;
+  }
+
+  .food img{
+      position: relative;
+      
+      height: 25%;
+      float: right;
+  }
+  h3{
+      color: white;
+  }
 
   .page-footer {
     color:white;
